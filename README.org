@@ -1,0 +1,7 @@
+#+TITLE: apptainer-mode
+
+[[https://melpa.org/#/apptainer-mode][file:https://melpa.org/packages/apptainer-mode-badge.svg]]
+
+A mode for editing Singularity/[[https://github.com/apptainer/apptainer][Apptainer]] definition files
+
+** Features
